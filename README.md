@@ -60,6 +60,9 @@ CSV output:
 Category,Opened,Closed,Average Time Support,42,38,12m 32s
 Moderation,27,25,8m 10s
 
+<img width="214" height="134" alt="image" src="https://github.com/user-attachments/assets/c278b8db-c910-4de9-8297-309b36e2dc02" />   
+<img width="261" height="73" alt="image" src="https://github.com/user-attachments/assets/b3468ac0-5d62-41ef-b3fe-e6653c312539" />
+
 ------------------------------------------------------------------------
 
 **Plans**
@@ -67,5 +70,7 @@ Moderation,27,25,8m 10s
 -   Automatic weekly reports
 -   Configurable report channel
 -   Add more compatibility so you can set your own timestamps!
+-   Saves on CSV with Accurate Period of Data & Exportation Time & Date
+-   Outputs with the Accurate Period of Data (meaning shows you what date)
 -   Get this on the registry!
 -   Create more plugins!
