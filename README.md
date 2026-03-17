@@ -18,7 +18,7 @@ gives a quick overview of how things are going.
 
 **Installation**
 ```
-?plugin add JordanP244656/ModmailPlugins/analytics@main
+?plugin add JordanP244656/ModmailAnalyticsPlugin/analytics@main
 ```
 ------------------------------------------------------------------------
 
